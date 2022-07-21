@@ -1,0 +1,25 @@
+.iS{
+    height: 1000px;width: 300px;
+
+background-color: white;
+
+}
+img{
+   
+    height: 1000px; width: 1000px;
+    margin-left: 1600px;
+    position: static;
+    border: 2px solid black;
+    background-color: white;
+    
+}
+#oT{
+    margin-top: -300px;
+    text-overflow: clip;
+    margin-top: -900px
+    ;
+}
+.conT{
+    position: absolute;
+    margin-top: -30px;
+}

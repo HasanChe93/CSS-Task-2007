@@ -1,0 +1,29 @@
+#st{
+    color: orange;
+
+}
+#ex{
+    font-weight: bold;
+}
+#nd{
+font-size: 30 px;
+}
+.container img{
+    max-width: 100%;
+    height: 50px%;
+    
+}
+.container{
+    position: relative;
+    height:400px;
+}
+.text{
+position:absolute;
+top:0;
+color: aliceblue;
+padding: 1px;
+}
+img{
+    width: 100%;
+    height: 50%;
+}

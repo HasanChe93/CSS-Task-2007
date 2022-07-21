@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(219, 125, 230);
+    height: 750px;
+}
+.t1{
+    background-color: silver;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+    display:inline-block;
+    height: 90px;
+    width: 25%;
+    font-weight: bold;
+
+    
+}
+.container{
+padding: 10px;
+display:inline-block;
+width: 100%;
+}
+
+#t1{
+    border: 3px solid black;
+    font-weight: bold;
+    overflow: auto;
+    height: 60px;
+    margin-left: -60px;
+    padding-right: 3px;
+}
+.container2{
+    padding: 10px;
+    display:inline-block;
+    width: 100%;
+    }
+    .t2{
+        background-color: silver;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+    display:inline-block;
+    width: 25%;
+    height: 90px;
+    font-weight: bold;
+    }
