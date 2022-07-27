@@ -2,7 +2,7 @@ body {
     background-color: coral;
     color: darkgreen;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    width: fit-content;
+    width:fit-content;
     
     
 }
@@ -10,14 +10,15 @@ body {
 .Box {
     margin-left: 450px auto;
     
-    width: 50%;
+    width: 100%;
     padding: 8px;
 }
 
 #p1 {
     float: left;
     padding: 0 10px 0 0;
-    width: 400px;
+    width: 50%;
+    height: 100px;
     height: 300px;
 
 
@@ -26,7 +27,7 @@ body {
     float: left;
 }
 
-.cont {
+.cont { 
     text-align: justify;
     margin-top: -20px;
     
@@ -37,8 +38,13 @@ body {
 #bot{
     text-align: justify;
     margin-top: 275px;
+    width: 100%;
+    text-align: ce;
     
 
+}
+.t2{
+    width: 100%;
 }
 .pp{
     float:left;
@@ -49,7 +55,7 @@ body {
 }
 .pp{
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 10px;
 }
 
 /* .h1{
